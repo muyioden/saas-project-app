@@ -7,6 +7,9 @@ gem 'rails', '4.2.6'
 gem 'pg', '~> 0.15'
 gem 'devise'
 gem 'milia', '1.2.0'
+gem 'aws-sdk'
+gem 'stripe'
+gem 'stripe_event'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
